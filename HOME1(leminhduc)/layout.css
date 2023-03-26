@@ -1,0 +1,107 @@
+body{
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.header{
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 969px;
+    padding: 38px 50px 60px;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 22px;
+}
+.header__title{
+    margin-bottom: 52px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 54px;
+    text-align: center;
+    color: #2770DC;
+}
+.header__iteam{
+    display: flex;
+}
+
+img{
+    width: 270px;
+}
+.header__content{
+    padding-left: 54px;
+    margin: 0;
+    max-width: 594px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    color: #000000;
+    text-align:left;
+}
+.faqs{
+    margin-top: 135px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 78px;
+    line-height: 120%;
+    text-align: center;
+    color: #001B4B;
+
+    text-shadow: 0px 8px 8px rgba(0, 0, 0, 0.75);
+    }
+    .listfaqs{
+        list-style: none;
+        max-width: ;
+    }
+   .line{
+    margin-right: 35px;
+    width: 20px;
+    height: 0px;
+    border: 5px solid #000000;
+    transform: rotate(87.95deg);
+   }
+    .iteam1{
+   
+        margin-bottom:18px ;
+        font-family: 'Sora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: -0.02em;
+        text-transform: capitalize;
+        color: #000000;
+
+    }
+    .iteam2{
+        padding-left: 20px;
+        font-family: 'Sora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: -0.02em;
+        text-transform: capitalize;
+        color: #000000;
+    }
+    .footer {
+        background: linear-gradient(105.16deg, #FF9700 15.31%, #FFC92C 87.35%);
+        font-family: 'Sora';
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        padding: 17px 20px;
+        width: 220px;
+        margin: 150px auto;
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: capitalize;
+        color: #FFFFFF;
+        border: none;
+        display: block;
+        box-shadow: 0px 0px 25px rgba(255, 152, 1, 0.5);
+        border-radius: 50px;
+    }
